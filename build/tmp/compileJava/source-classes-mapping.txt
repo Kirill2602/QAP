@@ -1,0 +1,34 @@
+guru/qa/data/MessageRepository.java
+ guru.qa.data.MessageRepository
+guru/qa/servise/Application.java
+ guru.qa.servise.Application
+guru/qa/servise/UserService.java
+ guru.qa.servise.UserService
+guru/qa/io/SwingMainView.java
+ guru.qa.io.SwingMainView
+guru/qa/data/UserRepository.java
+ guru.qa.data.UserRepository
+guru/qa/io/SwingLoginView.java
+ guru.qa.io.SwingLoginView
+guru/qa/data/MockUserRepository.java
+ guru.qa.data.MockUserRepository
+guru/qa/io/View.java
+ guru.qa.io.View
+guru/qa/servise/SecurityService.java
+ guru.qa.servise.SecurityService
+guru/qa/domain/User.java
+ guru.qa.domain.User
+Main.java
+ Main
+guru/qa/io/MainView.java
+ guru.qa.io.MainView
+guru/qa/io/LoginView.java
+ guru.qa.io.LoginView
+guru/qa/domain/Message.java
+ guru.qa.domain.Message
+guru/qa/servise/MainUserService.java
+ guru.qa.servise.MainUserService
+guru/qa/exception/AuthenticateException.java
+ guru.qa.exception.AuthenticateException
+guru/qa/data/MockMessageRepository.java
+ guru.qa.data.MockMessageRepository
